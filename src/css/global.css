@@ -1,0 +1,35 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  background-color: #00011e;
+  font-size: 30px;
+  font-weight: 600;
+  padding: 5px 20px;
+}
+
+.main-logo {
+  width: 70px;
+  height: 60px;
+}
+
+.navigator-container {
+  color: white;
+}
+
+.menu-icon {
+  color: #a0a3ff;
+}
+
+.error-page {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}/*# sourceMappingURL=global.css.map */
